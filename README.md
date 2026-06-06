@@ -1,5 +1,5 @@
 ## Olá! Sou Amanda Teixeira Renosto!!!
-Sou estudante de Engenharia da Computação na UNAERP, com foco em Cibersegurança e interesse em tecnologia, segurança da informação e desenvolvimento de soluções digitais.
+Sou estudante de Engenharia da Computação na UNAERP, com interesse em Cybersegurança e segurança da informação e desenvolvimento de soluções digitais.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
