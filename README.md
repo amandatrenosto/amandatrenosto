@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🌱 &nbsp;I'm currently learning **I'm currently learning AI, Cloud services, Python, Java, SQL and more!**  
+🌱 &nbsp;I'm currently learning **AI, Cloud services, Python, Java, SQL and more!**  
 😄 &nbsp;Pronouns: **she/her**
 
 ### 🛠️ Tech Stack
